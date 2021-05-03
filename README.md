@@ -33,3 +33,7 @@ If you don't like the current design (i don't blame you, i'm really not a design
 
 If find any bugs, please join my [discord server](https://discord.gg/hUNCdNhtHD) and report it in the #bug-reports channel  
 If you like my work, please check out [my page](https://overwolf.xyz), i'll probably release a few more things if i have the time and feel like it
+
+# Discord Server
+<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32263160/13a8eb506b9546ecf8dcf2c97b47429dcdb2e4e8.png"/>
+<p align="center">Join OVERWOLF Community https://discord.gg/hUNCdNhtHD </b></p>
