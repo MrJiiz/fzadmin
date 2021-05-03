@@ -3,25 +3,24 @@ FiveM Ban/Warning/AdminArea/Help-Assist System for ESX
 ## Installation
 1. Download the [resource](https://github.com/MrJiiz/fzadmin)
 2. Rename it to `fzadmin` and put it in your resources folder
-3. Import sql.sql into your database
+3. Import fz.sql into your database
 4. Edit the config to your liking
 5. Add `start fzadmin` to your server.cfg ***Make sure to add this after mysql-async and es_extended***
 6. Start it and you're good to go
 
 ## Documentation
 There's a few commands this adds:
-- /bwh             <- root admin command, this will display all sub-commands
-- /bwh ban         <- opens the ban menu
-- /bwh warn        <- opens the warn menu
-- /bwh banlist     <- opens the ban list
-- /bwh warnlist    <- opens the warning list
-- /bwh assists     <- shows pending/active assists in the chat
-- /bwh refresh     <- pulls all bans from the database and refreshes the ban cache
-- /accassist `<player id>` <- admin command, admins can accept help requests from players
-- /finassist       <- admin command, this closes the current help request and teleports you back to your original position
-- /decassist       <- admin command, this just hides the current assist popup on the screen
-- /assist `<reason>` <- player command, players can request help with this
-- /cassist         <- player command, this cancels the players ongoing assist request  
+
+- /setada `<raduis>`<- Set admin area
+- /clearada `<blipid>`<- ClearAdminArea
+- /warn <- opens the warn menu
+- /warnlist    <- opens the warning list
+- reports     <- shows pending/active assists in the chat
+- /ar `<player id>` <- admin command, admins can accept help requests from players
+- /fr       <- admin command, this closes the current help request and teleports you back to your original position
+- /dreport       <- admin command, this just hides the current assist popup on the screen
+- /report `<reason>` <- player command, players can request help with this
+- /creport         <- player command, this cancels the players ongoing assist request  
 
 
 
