@@ -1,7 +1,7 @@
-# fzadmin
+# Fz Admin System
 FiveM Ban/Warning/AdminArea/Help-Assist System for ESX
 ## Installation
-1. Download the [resource](https://github.com/Elipse458/el_bwh/archive/master.zip)
+1. Download the [resource](https://github.com/MrJiiz/fzadmin)
 2. Rename it to `fzadmin` and put it in your resources folder
 3. Import sql.sql into your database
 4. Edit the config to your liking
